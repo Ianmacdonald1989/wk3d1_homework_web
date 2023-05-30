@@ -1,0 +1,87 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    color: white;
+   
+
+}
+.header {
+    background-color:lightskyblue;
+    color:azure;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+
+}
+
+nav ul li b{
+    color: blue;
+    text-decoration: blue;
+    background-color: white;
+}
+
+
+label{
+    color: black;
+}
+
+header h1{
+    color:black;
+    background-color: whi;
+}
+
+header h2{
+    color: black
+
+}
+
+p1{
+    color:black
+}
+
+p2{
+    color:black
+}
+
+p3{
+    color:black
+}
+
+h3{
+    color:black
+}
+
+.article-image{
+    width: 200px;
+    height:200x;
+    object-fit:cover;
+    padding: 10%;
+    margin: 20;
+}
+
+.article-image1{
+    width: 200px;
+    height:200x;
+    object-fit:cover;
+    padding: 10%;
+    margin: 20;
+}
+
+.article-image3{
+    width: 700px;
+    height:200x;
+    object-fit:cover;
+    padding: 10%;
+    margin: 20;
+}
+
+.article-image4{
+    width: 60px;
+    height:200x;
+    object-fit:cover;
+    padding: 10%;
+    margin: 20;
+}
